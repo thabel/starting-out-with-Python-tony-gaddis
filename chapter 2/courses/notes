@@ -1,0 +1,8 @@
+When a variable represents a value in the computer’s memory, we say that the variable references
+the value.
+
+When a value in memory is no longer referenced by 
+a variable, the Python interpreter automatically removes it from memory through a process 
+known as garbage collection.
+
+variable = input(prompt)

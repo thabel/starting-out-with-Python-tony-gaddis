@@ -1,0 +1,11 @@
+Question 1
+7 + 6 = _____
+Question 2
+2 + 5 = _____
+Question 3
+11 + 7 = _____
+Question 4
+11 + 2 = _____
+Question 5
+6 + 1 = _____
+Continue? press q to quit or anything to continue : 

@@ -1,0 +1,64 @@
+Some programmig concepts
+
+The physical devices of which a computer is made are referred to as the 
+computer’s hardware. The programs that run on a computer are referred 
+to as software.
+
+CPU( Central Processing unity )
+The CPU is the most important component 
+in a computer because without it, the computer could not run software.
+
+Nowadays the CPU are called microprocessors and are more powerfull
+than older CPUs
+
+The Main memory is where the program and his data are stocked while 
+runing.
+Main memory is commonly known as random-access memory, or RAM.
+
+Secondary storage is a type of memory that can hold data for long periods of time, even 
+when there is no power to the computer. 
+thr common name is the disk drive.
+
+USB (Universal serial Bus)
+
+USB drives, which are also known as 
+memory sticks and flash drives, 
+Notes : USB store data in what is called flash memory
+
+
+All data that is stored in a computer is converted to sequences of 0s 
+and 1s.
+
+Unicode is an extensive encoding scheme that is compatible with ASCII, but can 
+also represent characters for many of the languages in the world.
+
+The term digital can be used to describe 
+anything that uses binary numbers.
+
+The term pixel stands for picture 
+element.
+
+A digital 
+song is broken into small pieces known as samples
+
+A computer’s CPU can only understand instructions that are written in 
+machine language. Because people find it very difficult to write entire 
+programs in machine language, other programming languages have been 
+invented.
+
+The entire set of instructions that a 
+CPU can execute is known as the CPU’s instruction set.
+
+When a CPU executes the instructions in a program, it is engaged in a process that is known 
+as the fetch-decode-execute cycle.
+
+assembly language uses short words that are known as mnemonics.
+. For example, in assembly language, the mnemonic add typically means to add numbers, 
+mul typically means to multiply numbers, and mov typically means to move a value to a 
+location in memory
+
+To convert assembly language(programs mnemonics) to machine language
+we use the assembler
+
+The Python language uses an interpreter, which is a program that both translates and 
+executes the instructions in a high-level language program.
